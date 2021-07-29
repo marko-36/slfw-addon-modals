@@ -1,0 +1,15 @@
+    <div id="_modal-signup" class="_modal">
+        <h2>Sign up</h2>
+        <p>Name / Nickname:
+            <br /><input type="text" maxlength="64" size="32" id="TB_signup_name1" />
+        </p>
+        <p>E-mail:
+            <br /><input type="text" maxlength="64" size="32" id="TB_signup_email" />
+        </p>
+        <p>Password:
+             <br /><input type="password" maxlength="16" size="32" id="TB_signup_pswd" />
+        </p>
+        <p><br>j<a id="lbtn_signup" class="_focusable" href="#">Sign up</a></p>
+        <p style="text-align:right"><a data-modalswapid="_modal-login">I have an account. Log in instead</a></p>
+        <a class="_modal-hide"></a>
+    </div>
